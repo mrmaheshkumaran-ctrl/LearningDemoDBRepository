@@ -1,0 +1,1 @@
+Create table companys(companyname varchar(100))
